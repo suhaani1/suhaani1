@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Suhani Kumari 👋
+# Hi, I'm Suhani Kumari 
 
 **MERN Stack Developer | AI & ML Enthusiast | MCA Aspirant**
 
@@ -14,18 +14,18 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a **BCA graduate** and software developer passionate about building practical applications that solve real-world problems. My focus areas include full-stack web development, artificial intelligence, and machine learning.
 
-- 🔭 Currently working on **AI-powered web applications**
-- 🌱 Learning **Advanced React, Deep Learning & System Design**
-- 🎯 Goal: Pursuing **MCA** while growing as a Full-Stack Developer & AI Engineer
-- 💡 Philosophy: *"Code. Learn. Build. Improve. Repeat."*
+-  Currently working on **AI-powered web applications**
+-  Learning **Advanced React, Deep Learning & System Design**
+-  Goal: Pursuing **MCA** while growing as a Full-Stack Developer & AI Engineer
+-  Philosophy: *"Code. Learn. Build. Improve. Repeat."*
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -61,13 +61,13 @@ I'm a **BCA graduate** and software developer passionate about building practica
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏪 Sri Radha Vallab Agency
+###  Sri Radha Vallab Agency
 Full-stack e-commerce platform for stationery management
 
 **Features:** User Auth • Product Management • Cart • Admin Dashboard
@@ -80,7 +80,7 @@ Full-stack e-commerce platform for stationery management
 </td>
 <td width="50%">
 
-### 💰 Personal Expense Tracker
+###  Personal Expense Tracker
 Web app for managing income, expenses & budgets
 
 **Features:** Expense Tracking • Categories • Reports • Analytics
@@ -95,7 +95,7 @@ Web app for managing income, expenses & budgets
 <tr>
 <td width="50%">
 
-### 🤖 AI/ML Projects
+###  AI/ML Projects
 Machine learning models & data analysis
 
 **Projects:** Expense Prediction • Student Performance Analysis • Recommendation Systems
@@ -105,7 +105,7 @@ Machine learning models & data analysis
 </td>
 <td width="50%">
 
-### 🌐 Portfolio Website
+###  Portfolio Website
 Personal portfolio showcasing projects & skills
 
 **Tech:** `React.js` `CSS3`
@@ -118,7 +118,7 @@ Personal portfolio showcasing projects & skills
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -131,7 +131,7 @@ Personal portfolio showcasing projects & skills
 
 ---
 
-## 🌱 Currently Exploring
+##  Currently Exploring
 
 ```text
 🔹 Advanced React Patterns & Performance Optimization
