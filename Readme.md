@@ -5,139 +5,120 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=600&lines=Full+Stack+MERN+Developer;Building+Real+World+Web+Applications;Open+to+Internships+and+Opportunities" alt="Typing SVG" />
 
 ---
+BCA Graduate | MERN Stack Developer | AI & Machine Learning Enthusiast | MCA Aspirant
 
-## About Me
+I am a software developer with a strong interest in full-stack web development, artificial intelligence, and machine learning. I enjoy building practical applications that solve real-world problems and continuously learning new technologies.
 
- BCA Graduate passionate about Web Development and Software Engineering.
+My experience includes developing responsive web applications using the MERN stack, working with databases, designing REST APIs, and exploring AI-powered solutions. I am currently focused on improving my skills in software engineering, data structures, machine learning, and system design.
 
- Skilled in building Full-Stack Web Applications using the MERN Stack.
+## Technical Skills
 
- Currently learning:
-- Advanced React.js
-- System Design Basics
-- Data Structures & Algorithms
-- AI Integration in Web Applications
+### Programming Languages
+- JavaScript
+- Java
+- Python
+- SQL
 
- Career Goal:
-To work as a Software Developer where I can build scalable applications and continuously improve my technical skills.
+### Web Development
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- HTML5
+- CSS3
+- Bootstrap
+- REST APIs
 
----
+### AI & Machine Learning
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Data Analysis
+- Machine Learning Fundamentals
+- Model Evaluation
+- Data Preprocessing
 
-##  Tech Stack
+### Tools & Technologies
+- Git
+- GitHub
+- VS Code
+- Postman
+- MongoDB Atlas
+- Render
+- Vercel
 
-### Frontend
+## Areas of Interest
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+- Full-Stack Development
+- Artificial Intelligence
+- Machine Learning
+- Software Engineering
+- Problem Solving
+- Data Analytics
 
-### Backend
+## Featured Projects
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+### Sri Radha Vallab Agency
+A full-stack stationery management and e-commerce platform developed using the MERN stack.
 
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-
----
-
-##  Featured Projects
-
-###  Sri Radha Vallab Agency (MERN)
-
-A complete stationery management and e-commerce platform.
-
-#### Features
-
+Key Features:
 - User Authentication
 - Product Management
 - Shopping Cart
-- Order Tracking
-- Contact Form
+- Order Management
 - Admin Dashboard
-- Responsive Design
+- Responsive User Interface
 
-#### Tech Stack
+Technology Used:
+React.js, Node.js, Express.js, MongoDB
 
-React.js | Node.js | Express.js | MongoDB
+### Personal Expense Tracker
+A web application designed to help users manage income, expenses, and budgets efficiently.
 
----
-
-###  Personal Expense Tracker
-
-Track income, expenses, budgets, and spending patterns.
-
-#### Features
-
-- Add/Edit/Delete Transactions
-- Monthly Reports
+Key Features:
+- Expense Tracking
 - Category Management
+- Financial Reports
 - Dashboard Analytics
 
-#### Tech Stack
+Technology Used:
+React.js, Node.js, MongoDB
 
-React.js | Node.js | MongoDB
+### Portfolio Website
+A personal portfolio showcasing projects, technical skills, and professional achievements.
 
----
+### AI-Based Projects
+- Expense Prediction System
+- Student Performance Analysis
+- Recommendation Systems
+- Data Visualization Projects
+- Machine Learning Models using Scikit-learn
 
-###  Portfolio Website
+## Currently Learning
 
-Personal portfolio showcasing projects, skills, and experience.
+- Advanced React Development
+- Machine Learning Algorithms
+- Deep Learning Fundamentals
+- Data Structures and Algorithms
+- System Design Concepts
 
-#### Features
+## Education
 
-- Responsive Design
-- Project Showcase
-- Contact Form
-- Resume Download
+Bachelor of Computer Applications (BCA)
 
----
+Preparing for Master of Computer Applications (MCA)
 
-##  Currently Learning
+## Career Objective
 
-- Data Structures & Algorithms
-- System Design
-- AI-Powered Web Applications
-- TypeScript
+I am seeking opportunities where I can contribute to software development projects, apply my problem-solving skills, and continue growing as a Full-Stack Developer and AI Engineer.
 
----
+## GitHub Statistics
 
-##  Achievements
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
-- Built Multiple Full-Stack MERN Applications
-- Completed Academic and Personal Projects
-- Active GitHub Contributor
-- Exploring AI Integration in Web Development
-
----
-
-##  GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-##  Coding Profiles
-
-- LeetCode: Add Your Link
-- GeeksforGeeks: Add Your Link
-- HackerRank: Add Your Link
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 ##  Connect With Me
 
