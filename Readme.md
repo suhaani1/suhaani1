@@ -2,7 +2,7 @@
 
 # Hi, I'm Suhani Kumari 
 
-**MERN Stack Developer | AI & ML Enthusiast | MCA Aspirant**
+**MERN Stack Developer | AI & ML Enthusiast**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Solutions+That+Matter)](https://git.io/typing-svg)
 
@@ -125,7 +125,7 @@ Personal portfolio showcasing projects & skills
 <img src="https://github-readme-stats.vercel.app/api?username=suhaani1&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaani1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaani1&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaani1&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 ---
