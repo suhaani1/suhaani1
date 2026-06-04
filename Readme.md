@@ -123,9 +123,9 @@ Personal portfolio showcasing projects & skills
 <div align="center">
 
 <img src="[github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api?username=suhaani1&show_icons=true&theme=radical&hide_border=true)" alt="GitHub Stats" height="165"/>
-<img src="[github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)" alt="Top Languages" height="165"/>
+<img src="[github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaani1&layout=compact&theme=radical&hide_border=true)" alt="Top Languages" height="165"/>
 
-<img src="[github-readme-streak-stats.herokuapp.com](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)" alt="GitHub Streak" />
+<img src="[github-readme-streak-stats.herokuapp.com](https://github-readme-streak-stats.herokuapp.com/?user=suhaani1&theme=radical&hide_border=true)" alt="GitHub Streak" />
 
 </div>
 
