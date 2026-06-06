@@ -112,7 +112,7 @@ Deep learning-based application that detects "who spoke when" in multi-speaker a
 
 **Tech:**  `Python` `FastAPI` `PyAnnote` 
 
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](YOUR_REPO_LINK)
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](https://github.com/suhaani1/SpeakerDiarization.git)
 
 
 </td>
