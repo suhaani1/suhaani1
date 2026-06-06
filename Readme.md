@@ -87,7 +87,7 @@ Web app for managing income, expenses & budgets
 
 **Tech:** `React.js` `Node.js` `MongoDB`
 
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](YOUR_REPO_LINK)
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](YOUR_)
 [![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=vercel)](YOUR_DEMO_LINK)
 
 </td>
@@ -103,6 +103,21 @@ Machine learning models & data analysis
 **Tech:** `Python` `Scikit-learn` `Pandas` `Matplotlib`
 
 </td>
+<td width="50%">
+
+### 🎙️ AI Speaker Diarization Platform
+Deep learning-based application that detects "who spoke when" in multi-speaker audio conversations.
+
+**Features:** Speaker Segmentation • Voice Embeddings • Speaker Clustering • Audio Upload • Transcript Generation • Analytics Dashboard
+
+**Tech:** `React.js` `Node.js` `Python` `FastAPI` `PyAnnote` `MongoDB`
+
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](YOUR_REPO_LINK)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=vercel)](YOUR_DEMO_LINK)
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ###  Portfolio Website
