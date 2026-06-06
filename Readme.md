@@ -20,7 +20,7 @@ I'm a **BCA graduate** and software developer passionate about building practica
 
 -  Currently working on **AI-powered web applications**
 -  Learning **Advanced React, Deep Learning & System Design**
--  Goal: Pursuing **MCA** while growing as a Full-Stack Developer & AI Engineer
+-  Goal: Grow as a Full-Stack Developer & AI Engineer
 -  Philosophy: *"Code. Learn. Build. Improve. Repeat."*
 
 ---
@@ -67,7 +67,7 @@ I'm a **BCA graduate** and software developer passionate about building practica
 <tr>
 <td width="50%">
 
-###  Sri Radha Vallab Agency
+###  Sri Radha Vallab Agency(stationery)
 Full-stack e-commerce platform for stationery management
 
 **Features:** User Auth • Product Management • Cart • Admin Dashboard
