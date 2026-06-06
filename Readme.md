@@ -105,15 +105,15 @@ Machine learning models & data analysis
 </td>
 <td width="50%">
 
-### 🎙️ AI Speaker Diarization Platform
+### AI Speaker Diarization Platform
 Deep learning-based application that detects "who spoke when" in multi-speaker audio conversations.
 
 **Features:** Speaker Segmentation • Voice Embeddings • Speaker Clustering • Audio Upload • Transcript Generation • Analytics Dashboard
 
-**Tech:** `React.js` `Node.js` `Python` `FastAPI` `PyAnnote` `MongoDB`
+**Tech:**  `Python` `FastAPI` `PyAnnote` 
 
 [![Repo](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](YOUR_REPO_LINK)
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=vercel)](YOUR_DEMO_LINK)
+
 
 </td>
 </tr>
