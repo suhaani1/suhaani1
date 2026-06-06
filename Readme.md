@@ -74,7 +74,7 @@ Full-stack e-commerce platform for stationery management
 
 **Tech:** `React.js` `Node.js` `Express.js` `MongoDB`
 
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](YOUR_REPO_LINK)
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](https://github.com/suhaani1/Stationary_web.git)
 [![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=vercel)](YOUR_DEMO_LINK)
 
 </td>
