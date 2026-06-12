@@ -87,8 +87,8 @@ Web app for managing income, expenses & budgets
 
 **Tech:** `React.js` `Node.js` `MongoDB`
 
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](YOUR_)
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=vercel)](YOUR_DEMO_LINK)
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github)](https://github.com/suhaani1/ExpenseTracker.git)
+
 
 </td>
 </tr>
